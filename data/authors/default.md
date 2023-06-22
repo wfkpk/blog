@@ -1,6 +1,6 @@
 ---
 name: PK
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.jpg
 occupation: SDE
 company: NA
 email: NA
@@ -9,4 +9,13 @@ linkedin: https://www.linkedin.com
 github: https://github.com/wfkpk
 ---
 
-idk/
+# PK
+
+```c++
+#include <iostream>
+using namespace std;
+int main() {
+    cout << "Hello World!" << endl;
+    return 0;
+}
+```
