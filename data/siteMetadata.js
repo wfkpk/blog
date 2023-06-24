@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Hi! 👋',
   author: 'PK',
-  headerTitle: 'TailwindBlog',
+  headerTitle: 'Overreacted by PK',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
